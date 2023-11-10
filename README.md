@@ -10,9 +10,12 @@ To preview the website locally:
 
 1. Install the [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) gem:
 
+  # Muhammad kaif
+  # yellowBee's 
    ```
    $ gem install jekyll-redirect-from
    ```
+   
    
 1. clone this repository by running the following command:
    ```
